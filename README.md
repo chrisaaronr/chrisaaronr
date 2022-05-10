@@ -13,6 +13,7 @@ A creative nomad by nature, I earned my merits as an Audio Engineer, worked as a
 <a href="https://www.twitter.com/chrisaaron_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/chrisaaron_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
+
 ### Skills
 
 <p align="left">
@@ -30,4 +31,3 @@ src="https://img.shields.io/twitter/follow/chrisaaron_?logo=twitter&style=for-th
 ### Socials
 
 <p align="left"> <a href="https://www.dev.to/chrisaaron_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/TOPSilog" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/christopheraaron" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/chrisaaron_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-### Badges
