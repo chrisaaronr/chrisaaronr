@@ -82,7 +82,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=TOPSilog&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/?username=TOPSilog&count_private=true&theme=tokyonight&showicons=true" align="center" /></div>  
 
 <br/>  
 
@@ -93,13 +93,9 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=akachristops&cover_image=true&theme=default" /></div>  
+<div align="center"><img src="https://spotify-recently-played-readme.vercel.app/api?user=akachristops&count=1" /></div>  
 
 <br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=TOPSilog&&style=flat-square" align="center" />
-</div>  
   
 
 <br/>  
