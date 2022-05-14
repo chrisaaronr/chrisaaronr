@@ -24,7 +24,7 @@
 - 🌱 I’m currently learning THREE.js and WebRTC  
   
 
-- ❓ Ask me about anything related to MERN stack, 3D computer graphics, and related technologies  
+- ❓ All of my projects are available on my portfolio <a href="https://christopheraaron.netlify.app/">here!</a>  
   
 
 - 🎮  Fun fact: Always insta-locking Viper on Valorant  
