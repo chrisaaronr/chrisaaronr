@@ -24,7 +24,7 @@
 - 🌱 I’m currently learning THREE.js and WebRTC  
   
 
-- ❓ All of my projects are available on my portfolio <a href="https://christopheraaron.netlify.app/">here!</a>  
+- ❓ All of my projects are available on my portfolio <a href="https://www.chrisaaron.dev/">here!</a>  
   
 
 - 🎮  Fun fact: Always insta-locking Viper on Valorant  
