@@ -18,19 +18,23 @@
 </div>  
   
 
-- ☀️ I'm based in San Diego, California  
+- ☀️ I'm based in Los Angeles County, California  
   
 
-- 🌱 I’m currently learning THREE.js and WebRTC  
+- 🌱 I’m currently learning THREE.js, AI, and WebRTC  
   
 
 - ❓ All of my projects are available on my portfolio <a href="https://www.chrisaaron.dev/">here!</a>  
   
 
-- 🎮  Fun fact: Always insta-locking Viper on Valorant  
+- 🎮  When I'm not immersed in coding, you'll often find me indulging in my favorite pastime—playing video games. Whether it's diving into the latest releases or revisiting classic titles, gaming is my ultimate downtime escape. Join me on my streaming adventures as I conquer web development, virtual worlds, explore immersive narratives, and share my love for coding and gaming with an awesome community. 
   
 
 <br/>  
+
+Connect with me on social media for updates, behind-the-scenes content, and more! You can find me on Twitch and Instagram. Don't forget to check out my YouTube channel for exciting gameplay highlights, vlogs, and coding-related videos. 
+
+<br/>
 
 
 ## My Skill Set  
