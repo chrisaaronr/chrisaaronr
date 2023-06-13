@@ -85,12 +85,6 @@ Connect with me on social media for updates, behind-the-scenes content, and more
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/?username=chrisaaronr&count_private=true&theme=tokyonight&showicons=true" align="center" /></div>  
-
-<br/>  
-
-
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->   
 <!-- BLOG-POST-LIST:END -->  
