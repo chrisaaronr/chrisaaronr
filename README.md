@@ -21,7 +21,7 @@
 - ☀️ I'm based in Los Angeles County, California  
   
 
-- 🌱 I’m currently learning THREE.js, AI, and WebRTC  
+- 🌱 I’m currently learning WebRTC and audio-visual solutions for web applications  
   
 
 - ❓ All of my projects are available on my portfolio <a href="https://www.chrisaaron.dev/">here!</a>  
